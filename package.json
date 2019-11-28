@@ -3,9 +3,18 @@
   "version": "1.0.0",
   "description": "Allows Parcel to export ejs files as plain text",
   "main": "index.js",
+  "repository": "https://github.com/lohaniabhishek/parcel-plugin-ejs-raw",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "parcel",
+    "ejs",
+    "plugin",
+    "template",
+    "raw",
+    "bundler"
+  ],
   "author": "Abhishek Lohani <alabhisheklohani@gmail.com>",
   "license": "ISC",
   "dependencies": {
